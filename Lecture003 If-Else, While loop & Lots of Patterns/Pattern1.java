@@ -3,7 +3,7 @@ package com.company;
 import java.util.Scanner;
 
 public class Pattern1 {
-    // Pattern 1
+    // Pattern 1 test edited by amlesh
     public static void main(String [] args){
         /*
         Pattern 1
